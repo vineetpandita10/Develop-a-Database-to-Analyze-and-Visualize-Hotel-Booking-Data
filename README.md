@@ -12,7 +12,7 @@
 
 # Data Analysis Project Pipeline
 
-![Pipeline](https://user-images.githubusercontent.com/50957958/132986645-d1baaefd-9612-4de9-b8aa-b133dbed19fd.PNG)
+<img src="https://user-images.githubusercontent.com/50957958/132986645-d1baaefd-9612-4de9-b8aa-b133dbed19fd.PNG" alt="alt text" width="850" height="400">
 
 •Used Excel to analyse the data,
 
@@ -49,7 +49,7 @@
 
 # Summary/ Findings
 
-• The hoytel revenue has grown since year 2014 but had a litte knock at the end of year 2020 as compared to 2019.
+• The hotel revenue has grown since year 2014 but had a litte knock at the end of year 2020 as compared to 2019.
 
 • Parking log size has next to nothing effect on people engangement - in 2020 only 2.27% of parking space was used frequently.
 
