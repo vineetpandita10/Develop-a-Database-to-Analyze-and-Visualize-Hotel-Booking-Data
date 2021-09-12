@@ -47,7 +47,11 @@
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/50957958/132979683-1f622b5e-7c1c-46c5-b182-79e9bb4d0f14.gif)
 
+# Summary/ Findings
 
-❮img src="https://user-images.githubusercontent.com/50957958/132987301-48ff222a-6f16-42a1-b6d0-7f0c6c8defdd.png" width="100" ❯
+• The hoytel revenue has grown since year 2014 but had a litte knock at the end of year 2020 as compared to 2019.
+
+• Parking log size has next to nothing effect on people engangement - in 2020 only 2.27% of parking space was used frequently.
+
 
 
