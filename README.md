@@ -12,7 +12,7 @@
 
 # Data Analysis Project Pipeline
 
-<img src="https://user-images.githubusercontent.com/50957958/132986645-d1baaefd-9612-4de9-b8aa-b133dbed19fd.PNG" alt="alt text" width="850" height="400">
+<img src="https://user-images.githubusercontent.com/50957958/132986645-d1baaefd-9612-4de9-b8aa-b133dbed19fd.PNG" alt="alt text" width="850" height="430">
 
 •Used Excel to analyse the data,
 
