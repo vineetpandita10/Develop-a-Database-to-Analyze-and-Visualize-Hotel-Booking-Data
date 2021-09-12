@@ -7,7 +7,7 @@
 
 # Approach
 1. We have two hotel types so we segmented revenue by hotel type.
-2. We wanted to understand if there is a trend where number of guests are related with personal cars.
+2. We want to understand if there is a trend where number of guests are related with personal cars.
 3. Focusd on average daily rate and guests to explore seasonality.
 
 # Data Analysis Project Pipeline
