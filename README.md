@@ -29,7 +29,21 @@
 
 •Used Join command to combine 'meal cost' and 'meal segement' table in a single whole table
 
+![dddssss](https://user-images.githubusercontent.com/50957958/132987094-0cc67cd5-d3a0-4abb-b97f-b16cbd9bff01.PNG)
 
+•Imported the database into PowerBI using 'Add data'.
+
+•Added some custom columns for calculations.
+
+•Cleaned and transformed the data.
+
+![d](https://user-images.githubusercontent.com/50957958/132987301-48ff222a-6f16-42a1-b6d0-7f0c6c8defdd.png)
+
+•Started modeling the Visualization
+
+•Created the dashboard
+
+•Shared the report
 
 
 
