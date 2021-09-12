@@ -44,7 +44,7 @@
 
 •Shared the report
 
-<img src="https://user-images.githubusercontent.com/50957958/132979683-1f622b5e-7c1c-46c5-b182-79e9bb4d0f14.gif" alt="alt text" width="700" height="400">
+<img src="https://user-images.githubusercontent.com/50957958/132979683-1f622b5e-7c1c-46c5-b182-79e9bb4d0f14.gif" alt="alt text" width="850" height="470">
 
 
 # Summary/ Findings
