@@ -20,7 +20,9 @@
 •Identified primary and foregin keys in different sheets.
 
 •Imported Excel dataset into SQL.
+
 ![w33](https://user-images.githubusercontent.com/50957958/132986789-79b6d431-1fd1-407c-98f6-e501f40f3e02.PNG)
+
 •Used temp tables named as "hotels" to segregate the data we need.
 
 •Assembled the YEAR tables with each other using Union command.
