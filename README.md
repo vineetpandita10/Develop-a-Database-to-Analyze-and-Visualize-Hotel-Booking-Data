@@ -14,14 +14,13 @@
 
 ![Pipeline](https://user-images.githubusercontent.com/50957958/132986645-d1baaefd-9612-4de9-b8aa-b133dbed19fd.PNG)
 
-
 •Used Excel to analyse the data,
 
 •Identified primary and foregin keys in different sheets.
 
 •Imported Excel dataset into SQL.
 
-![w33](https://user-images.githubusercontent.com/50957958/132986789-79b6d431-1fd1-407c-98f6-e501f40f3e02.PNG)
+<img src="https://user-images.githubusercontent.com/50957958/132986789-79b6d431-1fd1-407c-98f6-e501f40f3e02.PNG" alt="alt text" width="850" height="400">
 
 •Used temp tables named as "hotels" to segregate the data we need.
 
@@ -29,7 +28,7 @@
 
 •Used Join command to combine 'meal cost' and 'meal segement' table in a single whole table
 
-![dddssss](https://user-images.githubusercontent.com/50957958/132987094-0cc67cd5-d3a0-4abb-b97f-b16cbd9bff01.PNG)
+<img src="https://user-images.githubusercontent.com/50957958/132987094-0cc67cd5-d3a0-4abb-b97f-b16cbd9bff01.PNG" alt="alt text" width="850" height="400">
 
 •Imported the database into PowerBI using 'Add data'.
 
@@ -37,7 +36,7 @@
 
 •Cleaned and transformed the data.
 
-![d](https://user-images.githubusercontent.com/50957958/132987301-48ff222a-6f16-42a1-b6d0-7f0c6c8defdd.png)
+<img src="https://user-images.githubusercontent.com/50957958/132987301-48ff222a-6f16-42a1-b6d0-7f0c6c8defdd.png" alt="alt text" width="850" height="400">
 
 •Started modeling the Visualization
 
@@ -45,7 +44,8 @@
 
 •Shared the report
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/50957958/132979683-1f622b5e-7c1c-46c5-b182-79e9bb4d0f14.gif)
+<img src="https://user-images.githubusercontent.com/50957958/132979683-1f622b5e-7c1c-46c5-b182-79e9bb4d0f14.gif" alt="alt text" width="700" height="400">
+
 
 # Summary/ Findings
 
