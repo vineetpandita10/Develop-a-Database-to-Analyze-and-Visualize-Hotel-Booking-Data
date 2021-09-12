@@ -14,6 +14,22 @@
 
 ![Pipeline](https://user-images.githubusercontent.com/50957958/132986645-d1baaefd-9612-4de9-b8aa-b133dbed19fd.PNG)
 
-#
+
+•Used Excel to analyse the data,
+
+•Identified primary and foregin keys in different sheets.
+
+•Imported Excel dataset into SQL.
+![w33](https://user-images.githubusercontent.com/50957958/132986789-79b6d431-1fd1-407c-98f6-e501f40f3e02.PNG)
+•Used temp tables named as "hotels" to segregate the data we need.
+
+•Assembled the YEAR tables with each other using Union command.
+
+•Used Join command to combine 'meal cost' and 'meal segement' table in a single whole table
+
+
+
+
+
 
 
