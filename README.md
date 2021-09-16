@@ -38,7 +38,7 @@
 
 <img src="https://user-images.githubusercontent.com/50957958/132987301-48ff222a-6f16-42a1-b6d0-7f0c6c8defdd.png" alt="alt text" width="850" height="400">
 
-•Started modeling the Visualization
+•Started modeling the Visualization.
 
 •Created the dashboard
 
